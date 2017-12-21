@@ -1,0 +1,6 @@
+mango
+grape
+pineapple
+mango
+orange
+strawberry
